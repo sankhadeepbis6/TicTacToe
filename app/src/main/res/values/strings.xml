@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="text_pvc">Player VS Computer</string>
+    <string name="text_pvp">Player VS Player</string>
+    <string name="text_settings">Settings</string>
+    <string name="text_reset">Reset</string>
+
+    <string name="button_select_color_primary">Select Primary Color</string>
+    <string name="button_select_color_secondary">Select Secondary Color</string>"
+</resources>
